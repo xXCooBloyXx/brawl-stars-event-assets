@@ -1,0 +1,11 @@
+id = "bazaar_tab_button_season"
+priority = 2
+
+sc_file_source = "ChronosScFile"
+sc_file = "shop_tab_anime.sc"
+export_name = "button_navi_shop"
+
+copy_configs = [ "bazaar_tab_button_default" ]
+
+[bindings]
+me = { path="" }
